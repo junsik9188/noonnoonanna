@@ -1,0 +1,24 @@
+
+
+box{
+  border: 50px solid red; 
+  width: 200px;
+  padding: 50px;
+}
+
+
+box green{
+  border: 50px solid green;
+  margine-top: 20px;
+  padding: 50px;
+}
+
+
+box blue{
+  border: 50px solid blue;
+  margine-top: 20px;
+  padding: 50px; 
+}
+
+
+
